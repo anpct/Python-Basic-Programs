@@ -1,12 +1,7 @@
+# Write a Python class to reverse a string word by word
+
 class rev:
-    def calc(self,s):
-        str=""
-        a=list()
-        a.append(s.split())
-        for i in range(len(a[0])-1, -1, -1):
-            str=str+a[0][i]
-            str=str+" "
-        print(str)
+    def calc(self):
+        return (" ".join(reversed(input("Enter the string: ").split())))
 if __name__=="__main__":
-    ob=rev()
-    ob.calc(input("Enter here:"))
+    print(rev().calc())

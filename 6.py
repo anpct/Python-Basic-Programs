@@ -1,3 +1,6 @@
+# Write a program to demonstrate working with tuples in python
+
+
 a=tuple((0,1,2,3,4,5,6,7,8,9))
 def two():
     print(int(input("Enter value to check:")) in a)

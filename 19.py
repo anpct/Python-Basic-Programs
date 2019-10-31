@@ -1,3 +1,6 @@
+# Write a Python class to implement pow(x, n)
+
+
 class p:
     def calc(self,x,n):
         return (x**n)

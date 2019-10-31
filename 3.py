@@ -1,3 +1,7 @@
+# Write a program to create, concatenate and print a string and accessing sub-string
+# from a given string
+
+
 def op(s,k):
     o={
         1: "len(s)",

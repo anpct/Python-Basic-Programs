@@ -1,3 +1,17 @@
+"""
+Write a Python program to construct the following pattern, using a nested for loop
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * *
+* * * 
+* *
+*
+"""
+
+
 n=int(input("Enter the max value:"))
 for i in range(0, n+1):
     for j in range(0, i):

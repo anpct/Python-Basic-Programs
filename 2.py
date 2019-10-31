@@ -1,3 +1,6 @@
+# Write a program to perform different Arithmetic Operations on numbers in Python
+
+
 def alt(inp, a, b):
     s = {
         '+': a+b,

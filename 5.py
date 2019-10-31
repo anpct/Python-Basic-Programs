@@ -1,3 +1,6 @@
+# Write a program to create, append, and remove lists in python
+
+
 a=list()
 def one():
     a.append(int(input("Enter the value to append:")))

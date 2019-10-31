@@ -1,3 +1,7 @@
+# Write a program that inputs a text file. The program should print all of the unique
+# words in the file in alphabetical order
+
+
 a=list()
 b=list()
 fname=input("Enter file name: ")
