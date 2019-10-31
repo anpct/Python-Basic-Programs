@@ -1,0 +1,7 @@
+fname1 = input("Enter the first file name: ")
+fname2 = input("Enter the first file name: ")
+f1=open("d:\{}.txt".format(fname1), 'r')
+f2=open("d:\{}.txt".format(fname2), 'w')
+f2.write(f1.read())
+f1.close()
+f2.close()
