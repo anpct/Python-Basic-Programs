@@ -22,16 +22,7 @@ from a given string.
 9. Write a Python program to convert temperatures to and from Celsius, Fahrenheit.
 [ Formula: c/5 = f-32/9]
 
-10. Write a Python program to construct the following pattern, using a nested for loop
-1
-1 1
-1 1 1
-1 1 1 1
-1 1 1 1 1
-1 1 1 1
-1 1 1 
-1 1
-1
+10. Write a Python program to construct a pattern, using a nested for loop (triangle and an inverted triangle).
 
 11. Write a Python script that prints prime numbers less than 20.
 
