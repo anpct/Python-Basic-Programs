@@ -23,15 +23,15 @@ from a given string.
 [ Formula: c/5 = f-32/9]
 
 10. Write a Python program to construct the following pattern, using a nested for loop
-*
-* *
-* * *
-* * * *
-* * * * *
-* * * *
-* * * 
-* *
-*
+1
+1 1
+1 1 1
+1 1 1 1
+1 1 1 1 1
+1 1 1 1
+1 1 1 
+1 1
+1
 
 11. Write a Python script that prints prime numbers less than 20.
 
